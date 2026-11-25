@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Annexe Junglinster</title>
+<meta name="description" content="Ein Spiel für die 7e: eine Woche in der Annexe, Entscheidungen mit Folgen, Skills zum Mitnehmen.">
+<link rel="manifest" href="lycee.webmanifest">
+<link rel="apple-touch-icon" href="lycee-pwa/icon-180.png">
+<meta name="theme-color" content="#2d3d5c">
+<style>
+  :root { --bg: #1b1830; --karte: #26213d; --rand: #3a3355; --text: #f2eefc; --leise: #b7b0d1; --akzent: #f2b134; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; background: var(--bg); color: var(--text); font: 17px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 48px; }
+  h1 { font-size: clamp(30px, 6vw, 44px); line-height: 1.1; margin: 8px 0 6px; }
+  .kicker { color: var(--akzent); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 13px; }
+  .unter { color: var(--leise); margin: 0 0 24px; }
+  .los { display: inline-flex; align-items: center; gap: 10px; background: var(--akzent); color: #1b1830; font-weight: 800; font-size: 20px; text-decoration: none; padding: 16px 28px; border-radius: 16px; min-height: 56px; }
+  .los:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+  section { background: var(--karte); border: 1px solid var(--rand); border-radius: 18px; padding: 18px 20px; margin-top: 18px; }
+  h2 { font-size: 19px; margin: 0 0 8px; }
+  ol, ul { margin: 6px 0 0; padding-left: 22px; }
+  li { margin: 4px 0; }
+  code { background: #120f22; border: 1px solid var(--rand); border-radius: 6px; padding: 1px 6px; font-size: 15px; }
+  a { color: #9fc4ff; }
+  .klein { color: var(--leise); font-size: 15px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Ein Spiel für die 7e</div>
+  <h1>Annexe Junglinster</h1>
+  <p class="unter">Eine Woche in der Annexe. Ein anonymer Account. Entscheidungen mit Folgen – und Skills, die man mitnimmt.</p>
+  <a class="los" href="lycee.html">▶ Spiel starten</a>
+
+  <section>
+    <h2>📱 Als App auf dem iPad</h2>
+    <ol>
+      <li>„Spiel starten“ in Safari öffnen.</li>
+      <li>Auf <b>Teilen</b> tippen, dann <b>„Zum Home-Bildschirm“</b>.</li>
+      <li>Ab jetzt startet es wie eine App – auch ohne Internet. Neue Versionen kommen von selbst.</li>
+    </ol>
+    <p class="klein">Spielstände bleiben nur auf diesem Gerät. Es gibt keine Anmeldung, keine Werbung und keine Daten, die irgendwohin geschickt werden.</p>
+  </section>
+
+  <section>
+    <h2>🧭 Für Lehrpersonen</h2>
+    <ul>
+      <li>Im Spiel auf <b>🎟</b> tippen und <code>LEHRER</code> eingeben: Resümees, Entscheidungen je Kapitel und eine Gesprächsfrage – zum Teilen per AirDrop oder Mail.</li>
+      <li>Codes: <code>SKILLS-1</code> … <code>SKILLS-10</code> öffnen die Skills-Stunden eines Kapitels, <code>DEUTSCH</code>, <code>MATHE</code>, <code>FRANCAIS</code> eine Fachstunde. Die Missions-Codes stehen in den REAL-TALK-Heften.</li>
+      <li>Einstellungen → „Für Lehrpersonen“: schwierige Situationen ein/aus, Unterricht in der Geschichte ein/aus.</li>
+    </ul>
+    <p class="klein">Mehr dazu: <a href="https://github.com/joderle123/Annexe-Junglinster/blob/main/LEHRPERSONEN.md">Hinweise für Lehrpersonen</a></p>
+  </section>
+
+  <section>
+    <h2>💬 Hilfe</h2>
+    <p>Kinder- und Jugendtelefon <b>116 111</b> · Notruf <b>112</b> · Polizei <b>113</b> · BEE SECURE Helpline <b>8002 1234</b></p>
+  </section>
+</main>
+</body>
+</html>
