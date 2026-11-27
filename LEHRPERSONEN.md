@@ -11,7 +11,7 @@ Es gibt kein Richtig oder Falsch, aber Folgen: Vieles kommt zwei, drei Kapitel s
 |---|---|---|
 | 1 | Das Foto | Ankommen |
 | 2 | Die Liste | Wer bin ich? |
-| 3 | Von links unten | Gefühle verstehen |
+| 3 | Unter der Wut | Gefühle verstehen (Werkzeug „Mischpult“) |
 | 4 | 8:34 | Gefühle regulieren |
 | 5 | Admin | Meine Gedanken |
 | 6 | Die Sprachnachricht | Kommunikation und Grenzen |
@@ -54,7 +54,7 @@ Es gibt kein Richtig oder Falsch, aber Folgen: Vieles kommt zwei, drei Kapitel s
 |---|---|
 | 1 | Warum klicken Leute bei so einer Umfrage mit? Was hätte es gebraucht, nicht zu klicken? |
 | 2 | Warum tut eine Liste weh, auch wenn man gar nicht draufsteht? |
-| 3 | Was war auf Milas Wand eine echte Spur – und was nur ein Gefühl? |
+| 3 | Was war bei Yusuf gemischt – und was bei dir? Woran hast du es gemerkt? |
 | 4 | Was hat dir geholfen, als die Zahl auf Rot war? Hast du gemerkt, wann sie gestiegen ist? |
 | 5 | Welcher Gedanke hat sich wie eine Tatsache angefühlt? |
 | 6 | Warum kann man fair abstimmen und trotzdem unfair sein? |
